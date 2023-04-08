@@ -1,0 +1,23 @@
+{
+  "name": "deltarelay",
+  "version": "1.0.0",
+  "description": "Delta Bot for Chat Relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakey-F/gmod-discord-integration-bot.git"
+  },
+  "author": "Jakey-F; Jakey#0673",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jakey-F/gmod-discord-integration-bot/issues"
+  },
+  "homepage": "https://github.com/Jakey-F/gmod-discord-integration-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "rcon": "^1.1.0"
+  }
+}
